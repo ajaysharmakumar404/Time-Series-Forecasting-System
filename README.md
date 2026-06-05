@@ -221,9 +221,9 @@ model_comparison.csv
 
 ## 👨‍💻 Author
 
-Ajay Kumar
+Ajay Kumar Sharma
 
-BCA Graduate | Networking & Machine Learning Enthusiast
+B.Tech Graduate | AI & Machine Learning Enthusiast
 
 ---
 
